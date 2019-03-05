@@ -1,8 +1,5 @@
 ﻿using System;
-/*Jorge Leonardo Trujillo Salas
-  TRUJ12059003
-  Numero A*/
-class NumeroA
+class StringCompare
 {
     static void afficher(string telephone, string message)
     {
