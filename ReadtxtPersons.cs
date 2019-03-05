@@ -1,8 +1,5 @@
 ﻿using System;
 using System.IO;
-/*Jorge Leonardo Trujillo Salas
-  TRUJ12059003
-  Numero C*/
 class Personne
 {
     private string nom;
@@ -67,7 +64,7 @@ class Personne
     }
 } // fin de la classe Personne
 
-class NumeroC
+class ReadtxtPersons
 {
     static void Relire(string nomALire, ref Personne[] tab, out int nbPers)
     {
