@@ -1,7 +1,4 @@
 ﻿using System;
-/*Jorge Leonardo Trujillo Salas
-  TRUJ12059003
-  Numero B*/
 class Personne
 {
     private string naissance; // format "jj/mm/aaaa", ex : "25/12/1993"
@@ -61,7 +58,7 @@ class Personne
     }
 } // fin de la classe Personne
 
-class NumeroB
+class AnalytDataPers
 {
     static void detMax(Personne[] tab, int borne) //determiner maximum
     {
